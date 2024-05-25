@@ -1,6 +1,6 @@
-# Crime_Analysis_Report_PowerBI
+# Crime Analysis Report
 
-I have created a PowerBI dashboard to analyze various types of crimes across different European countries.
+A PowerBI dashboard to analyze various types of crimes across different European countries.
 
 ## Problem Statement
 The dataset includes various crimes that occurred in 10 countries across Europe: Austria, Belgium, Denmark, Finland, France, Germany, Italy, Netherlands, Norway, Spain, Sweden, Switzerland, and the United Kingdom.The management has requested to create a dashboard to provide insights on the following details:
